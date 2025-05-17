@@ -5,5 +5,5 @@ class buku {
     string judul;
 
 public:
-   
+    buku setJudul(string judul) 
 }
